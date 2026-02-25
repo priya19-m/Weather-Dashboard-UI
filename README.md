@@ -66,14 +66,15 @@ weather-dashboard/
 <img width="1917" height="1009" alt="Screenshot 2026-02-25 135513" src="https://github.com/user-attachments/assets/be4b8cef-0ad3-43e7-83c5-de6776f30010" />
 
 ## 2.Get By Date:
-<img width="1915" height="1010" alt="Screenshot 2026-02-25 135532" src="https://github.com/user-attachments/assets/4662c570-6aa9-41bb-becd-f420a4cb9204" />
+<img width="1919" height="1008" alt="Screenshot 2026-02-25 152008" src="https://github.com/user-attachments/assets/f663cd11-eec7-4668-ac90-f158f5715c2b" />
 
 ## 3.Get By Month based on year:
-<img width="1912" height="1013" alt="Screenshot 2026-02-25 135623" src="https://github.com/user-attachments/assets/1cebcadc-40ea-4885-8198-8e6ccc07e7cb" />
-<img width="1919" height="1002" alt="Screenshot 2026-02-25 135633" src="https://github.com/user-attachments/assets/65a23822-3207-4e38-aa5f-9f1018550ba7" />
+<img width="1914" height="1014" alt="Screenshot 2026-02-25 152058" src="https://github.com/user-attachments/assets/e51bf6fd-0c36-425d-a0d6-66a3f2854ae4" />
+<img width="1918" height="988" alt="Screenshot 2026-02-25 152157" src="https://github.com/user-attachments/assets/17cc800e-8329-4f57-ae3a-b3af6bf14087" />
 
-## 4.Get the Statistics value by year 
-<img width="1909" height="1005" alt="Screenshot 2026-02-25 135656" src="https://github.com/user-attachments/assets/8c2cfc0b-1b50-44d4-aba0-b0d0361c371f" />
+## 4.Get the Statistics value by year:
+<img width="1917" height="1014" alt="Screenshot 2026-02-25 164117" src="https://github.com/user-attachments/assets/0faf75f2-edaf-487c-a3aa-97494a129c0f" />
+
 
 ## Student Deails:
 NAME: PRIYADHARSHINI M
